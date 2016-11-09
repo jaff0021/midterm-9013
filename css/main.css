@@ -43,7 +43,7 @@ h2{
     font-size: 4.236rem;
 }
 li, p, a{
-    font: bold 1.0rem 'Ubuntu', 'Lato', sans-serif;
+    font: 1.0rem 'Ubuntu', 'Lato', sans-serif;
 }
 pre, code, kbd{
     font: normal 1.0rem 'Ubuntu', 'Lato', 
